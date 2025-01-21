@@ -1,2 +1,2 @@
 # Dados---IFB
-Jogo de dados em Dart.
+Jogo de dados em Flutter.
