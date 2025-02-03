@@ -22,3 +22,5 @@ flutter:
 
   assets:
     - assets/dados/
+    - assets/trofeu.png
+
